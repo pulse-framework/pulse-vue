@@ -2,11 +2,12 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <h2>{{ foo }}</h2>
-    <input :value="foo" />
+    <input :v-model="foo"/>
   </div>
 </template>
 
 <script>
+
 export default {
   name: "home",
   data() {

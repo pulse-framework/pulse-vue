@@ -2361,7 +2361,7 @@ core-js-compat@^3.4.3, core-js-compat@^3.4.7:
     browserslist "^4.8.2"
     semver "^6.3.0"
 
-core-js@^3.4.3:
+core-js@^3.4.3, core-js@^3.5.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.5.0.tgz#66df8e49be4bd775e6f952a9d083b756ad41c1ed"
   integrity sha512-Ifh3kj78gzQ7NAoJXeTu+XwzDld0QRIwjBLRqAMhuLhP3d2Av5wmgE9ycfnvK6NAEjTkQ1sDPeoEZAWO3Hx1Uw==
@@ -6598,6 +6598,11 @@ public-encrypt@^4.0.0:
     parse-asn1 "^5.0.0"
     randombytes "^2.0.1"
     safe-buffer "^5.1.2"
+
+pulse-framework@^2.2.0:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/pulse-framework/-/pulse-framework-2.0.3.tgz#cd4df5c2393fede602faa897856af184fe990190"
+  integrity sha512-RTt8GllWKCdRzEX5dwJfBvgxWMm0jnUMvSaKJra57GD63c6XdYyjtFQKD+mvWBpsuDoYfPT3aQkmgGcGDSxyzQ==
 
 pump@^2.0.0:
   version "2.0.1"
