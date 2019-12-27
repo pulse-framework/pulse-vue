@@ -1,12 +1,25 @@
 import Vue from 'vue';
 import Pulse from 'pulse-framework';
 
-import config from './config';
+import collections from './collections';
 
-Pulse.use(Vue);
+const library = {
+    // pulse config
+    config: {
+        framework: Vue,
+        mapDataUnderPropName: 'pulse'
+    },
+    data: {
+        foo: 'bar'
+    },
+    persist: ['foo'],
+    collections,
+    onReady() {
+        console.log('hi!')
+    }
+};
 
-let pulse = new Pulse(config);
-
-Vue.use(Pulse);
+// create Pulse instance
+const pulse = new Pulse(library);
 
 export default pulse;
