@@ -1224,9 +1224,9 @@ acorn-walk@^6.1.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^6.0.2, acorn@^6.0.7, acorn@^6.1.1, acorn@^6.2.1:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
-  integrity sha512-gac8OEcQ2Li1dxIEWGZzsp2BitJxwkwcOm0zHAJLcPJaVvm58FRnk6RkuLRpU1EujipU2ZFODv2P9DLMfnV8mw==
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 address@^1.1.2:
   version "1.1.2"
@@ -6600,9 +6600,9 @@ public-encrypt@^4.0.0:
     safe-buffer "^5.1.2"
 
 pulse-framework@^2.2.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/pulse-framework/-/pulse-framework-2.0.3.tgz#cd4df5c2393fede602faa897856af184fe990190"
-  integrity sha512-RTt8GllWKCdRzEX5dwJfBvgxWMm0jnUMvSaKJra57GD63c6XdYyjtFQKD+mvWBpsuDoYfPT3aQkmgGcGDSxyzQ==
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/pulse-framework/-/pulse-framework-2.2.6.tgz#4dc3c175afb98301201ea71b3280528da0926ccf"
+  integrity sha512-qBCDSE351TVA+8M+Ckv4NgVhWgPt/KamENS1zb2IQPyYZCEKhusYgv7GV2lokHh5WRLC+Yk9ZVkHc+nYJ/kedQ==
 
 pump@^2.0.0:
   version "2.0.1"
