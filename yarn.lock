@@ -6600,9 +6600,9 @@ public-encrypt@^4.0.0:
     safe-buffer "^5.1.2"
 
 pulse-framework@^2.2.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/pulse-framework/-/pulse-framework-2.0.3.tgz#cd4df5c2393fede602faa897856af184fe990190"
-  integrity sha512-RTt8GllWKCdRzEX5dwJfBvgxWMm0jnUMvSaKJra57GD63c6XdYyjtFQKD+mvWBpsuDoYfPT3aQkmgGcGDSxyzQ==
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/pulse-framework/-/pulse-framework-2.2.6.tgz#4dc3c175afb98301201ea71b3280528da0926ccf"
+  integrity sha512-qBCDSE351TVA+8M+Ckv4NgVhWgPt/KamENS1zb2IQPyYZCEKhusYgv7GV2lokHh5WRLC+Yk9ZVkHc+nYJ/kedQ==
 
 pump@^2.0.0:
   version "2.0.1"
@@ -8594,9 +8594,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
