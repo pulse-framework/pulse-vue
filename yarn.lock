@@ -4001,9 +4001,9 @@ hoopy@^0.1.4:
   integrity sha512-HRcs+2mr52W0K+x8RzcLzuPPmVIKMSv97RGHy0Ea9y/mpcaK+xTrjICA04KAHi4GRzxliNqNJEFYWHghy3rSfQ==
 
 hosted-git-info@^2.1.4:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.5.tgz#759cfcf2c4d156ade59b0b2dfabddc42a6b9c70c"
-  integrity sha512-kssjab8CvdXfcXMXVcvsXum4Hwdq9XGtRD3TteMEvEbq0LXyiNQr6AprqKqfeaDXze7SxWvRxdpwE6ku7ikLkg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -6600,9 +6600,9 @@ public-encrypt@^4.0.0:
     safe-buffer "^5.1.2"
 
 pulse-framework@^2.2.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/pulse-framework/-/pulse-framework-2.0.3.tgz#cd4df5c2393fede602faa897856af184fe990190"
-  integrity sha512-RTt8GllWKCdRzEX5dwJfBvgxWMm0jnUMvSaKJra57GD63c6XdYyjtFQKD+mvWBpsuDoYfPT3aQkmgGcGDSxyzQ==
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/pulse-framework/-/pulse-framework-2.2.6.tgz#4dc3c175afb98301201ea71b3280528da0926ccf"
+  integrity sha512-qBCDSE351TVA+8M+Ckv4NgVhWgPt/KamENS1zb2IQPyYZCEKhusYgv7GV2lokHh5WRLC+Yk9ZVkHc+nYJ/kedQ==
 
 pump@^2.0.0:
   version "2.0.1"
