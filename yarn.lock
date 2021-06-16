@@ -6508,9 +6508,9 @@ postcss-value-parser@^4.0.0, postcss-value-parser@^4.0.2:
   integrity sha512-LmeoohTpp/K4UiyQCwuGWlONxXamGzCMtFxLq4W1nZVGIQLYvMCJx3yAF9qyyuFpflABI9yVdtJAqbihOsCsJQ==
 
 postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.23, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.24"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.24.tgz#972c3c5be431b32e40caefe6c81b5a19117704c2"
-  integrity sha512-Xl0XvdNWg+CblAXzNvbSOUvgJXwSjmbAKORqyw9V2AlHrm1js2gFw9y3jibBAhpKZi8b5JzJCVh/FyzPsTtgTA==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
@@ -6600,9 +6600,9 @@ public-encrypt@^4.0.0:
     safe-buffer "^5.1.2"
 
 pulse-framework@^2.2.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/pulse-framework/-/pulse-framework-2.0.3.tgz#cd4df5c2393fede602faa897856af184fe990190"
-  integrity sha512-RTt8GllWKCdRzEX5dwJfBvgxWMm0jnUMvSaKJra57GD63c6XdYyjtFQKD+mvWBpsuDoYfPT3aQkmgGcGDSxyzQ==
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/pulse-framework/-/pulse-framework-2.2.6.tgz#4dc3c175afb98301201ea71b3280528da0926ccf"
+  integrity sha512-qBCDSE351TVA+8M+Ckv4NgVhWgPt/KamENS1zb2IQPyYZCEKhusYgv7GV2lokHh5WRLC+Yk9ZVkHc+nYJ/kedQ==
 
 pump@^2.0.0:
   version "2.0.1"
